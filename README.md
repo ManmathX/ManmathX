@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![An image of @manmath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manmath)](https://holopin.io/@manmath)
-# 👋 Welcome to My GitHub - @CodeMaverick-143
+# 👋 Welcome to My GitHub - ManmathX
+
 
 🚀 **Innovator | Problem-Solver | Tech Enthusiast**
 
@@ -31,13 +32,6 @@ I'm open to teaming up on:
 - 🧠 **AI-driven projects** with real-world impact.  
 - 🌐 **Next-gen web platforms** with engaging interfaces.  
 - 🤖 **Automation tools** to simplify complex workflows.  
-
----
-
-## 📬 Connect with Me  
-- **Email**: [arpit.01.sarang.2005@gmail.com](mailto:arpit.01.sarang.2005@gmail.com)  
-- **LinkedIn**: [Arpit Sarang](https://www.linkedin.com/in/arpit-sarang-2005)  
-- **Twitter**: [@ByteWise_01](https://x.com/ByteWise_01)  
 
 ---
 
