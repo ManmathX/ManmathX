@@ -54,27 +54,27 @@ I built a **game bot** that cracks Sudoku puzzles in under **10 seconds**! 🧩
 ## 📊 GitHub Stats  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeMaverick-143&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaverick-143&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ManmathX&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManmathX&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaverick-143&theme=radical" alt="GitHub Streak" width="70%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManmathX&theme=radical" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---
 
 ## 🌐 Activity Graph  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManmathX&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/CodeMaverick-143/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManmathX&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/ManmathXgithub-readme-activity-graph)
 
 ---
 
 ## 📈 Insights  
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeMaverick-143&theme=aura" alt="Repos per Language" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaverick-143&theme=aura" alt="Most Commit Language" width="45%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManmathX&theme=aura" alt="Repos per Language" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManmathX&theme=aura" alt="Most Commit Language" width="45%"/>
 </div>
 
 ---
