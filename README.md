@@ -66,7 +66,7 @@ I built a **game bot** that cracks Sudoku puzzles in under **10 seconds**! 🧩
 
 ## 🌐 Activity Graph  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeMaverick-143&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/CodeMaverick-143/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManmathX&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/CodeMaverick-143/github-readme-activity-graph)
 
 ---
 
