@@ -1,82 +1,54 @@
-## Hi there 👋
-[![An image of @manmath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manmath)](https://holopin.io/@manmath)
-# 👋 Welcome to My GitHub - ManmathX
+🚀 Mad Scientist Mode: ON! 🤯
 
 
-🚀 **Innovator | Problem-Solver | Tech Enthusiast**
+👾 Welcome to My Digital Lab – ManmathX
+🎮 Hacker | AI Alchemist | Web Wizard | Chaos Creator
 
-Hi there! I'm a passionate developer turning ideas into cutting-edge solutions. Let's explore, build, and innovate together!
+"Code like a beast, debug like a detective, ship like a ninja!"
 
-------------------------------------------------------------------------
+🌌 I'm not just a developer—I'm an Architect of Madness, an AI Sorcerer, and a Pixel Pushing Machine crafting futuristic digital landscapes.
+
+🔥 Who Am I?
+⚡ A full-stack techno-mancer wielding code like an elemental force.
+💡 A problem annihilator, breaking and rebuilding systems for maximum efficiency.
+🚀 A speedster, automating workflows faster than your coffee brews.
+🎭 A cyber-warrior, ready to tackle algorithms, bugs, and rogue AI.
+
+🎭 Skills & Shenanigans
+💻 Languages: Python, JavaScript, C++, MySQL, Rust (sometimes for fun!)
+🛠️ Frameworks: React, Node.js, TensorFlow, PyTorch
+🔧 Tools: Git, Docker, Postman, VS Code, Neovim (Yes, I like pain.)
+☁️ Cloud Wizardry: AWS, Azure, Google Cloud (Clouds are just someone else’s computers.)
+
+🤖 Currently Brewing in the Lab
+🚀 Supercharged AI Models – Smarter, Faster, Unpredictable
+🎨 Next-Level Web Experiences – React + Vue = 🤯
+☁️ Cloud Automations – Because clicking buttons is boring
+🕵️ Cybersecurity Research – Breaking into my own systems (legally 😈)
+
+🛠️ Mad Experiments & Crazy Builds
+🕹️ Built a game bot that solves Sudoku in under 10 seconds! (Might make it evil soon 🤖)
+🎯 Created an AI assistant that roasts me if I write bad code. (Yes, it’s brutal.)
+⚡ Optimized a database query so fast it scared my senior.
+🔐 Once hacked my own system… just to see if I could. (Ethically, of course!)
+
+🏆 Trophy Cabinet of Doom
+🎖️ GitHub Trophies: Because flexing is necessary!
+
+🔥 Activity Graph - Because I Never Sleep!
 
 
+📊 Code Stats – Data Never Lies!
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ManmathX&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManmathX&layout=compact&theme=radical" alt="Top Languages" width="48%" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManmathX&theme=radical" alt="GitHub Streak" width="70%"/> </div>
+🔥 Want to Collaborate? Let’s Build the Future!
+🧠 AI-Powered Chaos: Machine learning, deep learning, and weird experiments.
+🌍 Cybersecurity & Ethical Hacking: Let's break & fix things, legally.
+🚀 Insanely Cool Web Apps: Anything that breaks the internet in a good way.
 
-------------------------------------------------------------------------
+📩 DM me, fork my repos, or summon me via code. 😈
 
-## 🌟 Interests  
-- **AI Development**: Pushing the boundaries of artificial intelligence.  
-- **Web Tech**: Designing sleek, dynamic web experiences.  
-- **Open-Source**: Building and learning in a vibrant, collaborative ecosystem.  
+🎯 Final Words of Wisdom:
 
----
+“Life’s too short for boring code. Break stuff. Learn stuff. Build epic things.” 🚀
 
-## 🌱 Currently Exploring  
-- 🚀 **Deep Learning**: Crafting smarter algorithms.  
-- ⚡ **Advanced JavaScript**: Mastering React, Vue.js, and the art of web development.  
-- ☁️ **Cloud Computing**: Engineering scalable, high-performance apps.  
 
----
-
-## 🤝 Let’s Collaborate!  
-I'm open to teaming up on:  
-- 🧠 **AI-driven projects** with real-world impact.  
-- 🌐 **Next-gen web platforms** with engaging interfaces.  
-- 🤖 **Automation tools** to simplify complex workflows.  
-
----
-
-## 🎯 Fun Fact  
-I built a **game bot** that cracks Sudoku puzzles in under **10 seconds**! 🧩
-
----
-
-## 🛠️ My Toolbox  
-- **Languages**: Python, JavaScript, HTML, CSS, C++, MySQL  
-- **Frameworks**: React, Node.js, TensorFlow  
-- **Tools**: Git, Docker, Postman, VS Code  
-- **Cloud Platforms**: AWS, Azure, Google Cloud  
-
----
-## 🏆 GitHub Trophies
-
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=CodeMaverick-143&theme=darkhub)
-
-## 📊 GitHub Stats  
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManmathX&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManmathX&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManmathX&theme=radical" alt="GitHub Streak" width="70%"/>
-</div>
-
----
-
-## 🌐 Activity Graph  
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManmathX&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/ManmathXgithub-readme-activity-graph)
-
----
-
-## 📈 Insights  
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManmathX&theme=aura" alt="Repos per Language" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManmathX&theme=aura" alt="Most Commit Language" width="45%"/>
-</div>
-
----
-
-🎯 Explore my repositories, share your thoughts, and let's create the future, one line of code at a time! 🚀
