@@ -1,54 +1,65 @@
-🚀 Mad Scientist Mode: ON! 🤯
+# 👋 Hi, I'm Manmath  
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | Competitive Programmer  
 
+I build impactful projects, contribute to open-source, and enjoy solving complex real-world problems through code.
 
-👾 Welcome to My Digital Lab – ManmathX
-🎮 Hacker | AI Alchemist | Web Wizard | Chaos Creator
+---
 
-"Code like a beast, debug like a detective, ship like a ninja!"
+## 🌟 About Me  
+- 💡 B.Tech CSE (AI & ML)  
+- 💻 Shortlisted for **Amazon Smbhav Hackathon** from **25,000+ teams**  
+- 🏆 **Winner** of a major **Game Development Hackathon**  
+- 🍁 Completed **Hacktoberfest** with contributions to 5+ company projects  
+- 🔥 Active on **AtCoder, CodeChef & Codeforces**  
+- 🧩 Love for algorithms, AI projects, and scalable backend systems  
 
-🌌 I'm not just a developer—I'm an Architect of Madness, an AI Sorcerer, and a Pixel Pushing Machine crafting futuristic digital landscapes.
+---
 
-🔥 Who Am I?
-⚡ A full-stack techno-mancer wielding code like an elemental force.
-💡 A problem annihilator, breaking and rebuilding systems for maximum efficiency.
-🚀 A speedster, automating workflows faster than your coffee brews.
-🎭 A cyber-warrior, ready to tackle algorithms, bugs, and rogue AI.
+## 🧠 Tech Stack  
 
-🎭 Skills & Shenanigans
-💻 Languages: Python, JavaScript, C++, MySQL, Rust (sometimes for fun!)
-🛠️ Frameworks: React, Node.js, TensorFlow, PyTorch
-🔧 Tools: Git, Docker, Postman, VS Code, Neovim (Yes, I like pain.)
-☁️ Cloud Wizardry: AWS, Azure, Google Cloud (Clouds are just someone else’s computers.)
+**Languages**  
+- JavaScript, TypeScript, Python, C++, SQL  
 
-🤖 Currently Brewing in the Lab
-🚀 Supercharged AI Models – Smarter, Faster, Unpredictable
-🎨 Next-Level Web Experiences – React + Vue = 🤯
-☁️ Cloud Automations – Because clicking buttons is boring
-🕵️ Cybersecurity Research – Breaking into my own systems (legally 😈)
+**Frontend**  
+- React, Next.js, Tailwind, HTML5, CSS3  
 
-🛠️ Mad Experiments & Crazy Builds
-🕹️ Built a game bot that solves Sudoku in under 10 seconds! (Might make it evil soon 🤖)
-🎯 Created an AI assistant that roasts me if I write bad code. (Yes, it’s brutal.)
-⚡ Optimized a database query so fast it scared my senior.
-🔐 Once hacked my own system… just to see if I could. (Ethically, of course!)
+**Backend**  
+- Node.js, Express.js, MongoDB, Firebase  
 
-🏆 Trophy Cabinet of Doom
-🎖️ GitHub Trophies: Because flexing is necessary!
+**AI/ML**  
+- NumPy, Pandas, scikit-learn, TensorFlow (basic), OpenCV  
 
-🔥 Activity Graph - Because I Never Sleep!
+**Other Tools**  
+- Git, GitHub, Docker, Postman, VS Code, Figma  
 
+---
 
-📊 Code Stats – Data Never Lies!
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ManmathX&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManmathX&layout=compact&theme=radical" alt="Top Languages" width="48%" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManmathX&theme=radical" alt="GitHub Streak" width="70%"/> </div>
-🔥 Want to Collaborate? Let’s Build the Future!
-🧠 AI-Powered Chaos: Machine learning, deep learning, and weird experiments.
-🌍 Cybersecurity & Ethical Hacking: Let's break & fix things, legally.
-🚀 Insanely Cool Web Apps: Anything that breaks the internet in a good way.
+## 📌 Featured Projects  
 
-📩 DM me, fork my repos, or summon me via code. 😈
+### 🔹 Hackathon AI Project  
+AI-powered system solving real industry problems. Created for the Amazon Smbhav Hackathon.  
 
-🎯 Final Words of Wisdom:
+### 🎮 Game Dev Hackathon Project (Winner)  
+Designed and built an innovative game prototype that secured 1st place among 50–60 teams.  
 
-“Life’s too short for boring code. Break stuff. Learn stuff. Build epic things.” 🚀
+### 🌐 Open-Source Contributions  
+Contributed major UI/UX and performance improvements during **Hacktoberfest** across multiple company repositories.
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmath&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmath&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect  
+- Portfolio: _add link_  
+- LinkedIn: _add link_  
+- Email: _add email_
+
+---
+
+⭐ _Thanks for visiting my GitHub profile!_
 
 
