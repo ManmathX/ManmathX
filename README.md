@@ -18,7 +18,7 @@ I build impactful projects, contribute to open-source, and enjoy solving complex
 ## 🧠 Tech Stack  
 
 **Languages**  
-- JavaScript, TypeScript, Python, C++, SQL  
+- JavaScript, TypeScript, Python, C++, SQL ,Rust 
 
 **Frontend**  
 - React, Next.js, Tailwind, HTML5, CSS3  
