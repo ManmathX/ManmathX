@@ -109,24 +109,24 @@ Approach: Clean code, best practices, performance optimization
 
 ### 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManmathX&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 ### 💻 Language Distribution
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh-priydarshi-5646&theme=github_dark" alt="Top Languages by Repository" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManmathX&theme=github_dark" alt="Top Languages by Repository" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh-priydarshi-5646&theme=github_dark" alt="Top Languages by Commit" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManmathX&theme=github_dark" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
 
 ### Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-priydarshi-5646&theme=github_dark" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManmathX&theme=github_dark" alt="GitHub Profile Summary" />
 
 </div>
 
@@ -157,20 +157,6 @@ const adarsh = {
 <div align="center">
 
 ### Let's Build Something Amazing Together!
-
-<p>
-  <a href="https://www.linkedin.com/in/adarsh-p1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:adarshpriydarshi5646@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/adarsh-priydarshi-5646">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-**📧 adarshpriydarshi5646@gmail.com**
 
 ---
 
