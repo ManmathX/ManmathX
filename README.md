@@ -135,8 +135,8 @@ Approach: Clean code, best practices, performance optimization
 ## 💡 What Sets Me Apart
 
 ```javascript
-const adarsh = {
-  code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
+const Manmath = {
+  code: ["JavaScript", "Python", "HTML/CSS", "SQL","Rust","C++"],
   technologies: {
     frontend: ["React", "React Native", "TailwindCSS", "Material-UI"],
     backend: ["Node.js", "Express.js", "REST APIs"],
